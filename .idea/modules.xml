@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TJ_StringCalculator.iml" filepath="$PROJECT_DIR$/TJ_StringCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTests_SzkolaTestow.iml" filepath="$PROJECT_DIR$/UnitTests_SzkolaTestow.iml" />
     </modules>
   </component>
 </project>
